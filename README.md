@@ -8,14 +8,14 @@ ChatGPT를 사용한 의학 자료의 QnA 엔진 구현(Implementing Questiong a
 ## 내용
 ChatGPT 소개와, 동작 원리, 제한점 등에 대하여 설명하고, ChatGPT를 사용하여 2가지 작업을 진행합니다. <br>
 <br>
-작업1. 네이버지식인의 건강 QnA의 자료를 크롤링하여 이를 ChatGPT로 학습시키고, 건강 질문에 대하여 medical speciality를 예측하도록 합니다.  <br>
-작업2. ChatGPT를 가지고 논문과 같은 의학문서에 기반한 QnA엔진을 구축합니다.  <br>
+- 작업1. 네이버지식인의 건강 QnA의 자료를 크롤링하여 이를 ChatGPT로 학습시키고, 건강 질문에 대하여 medical speciality를 예측하도록 합니다.  <br>
+- 작업2. ChatGPT를 가지고 논문과 같은 의학문서에 기반한 QnA엔진을 구축합니다.  <br>
 <br>
 ChatGPT에 대한 소개와 이를 프로그래밍 언어로 호출하기 위한 OpenAI API를 소개합니다. 더불어 ChatGPT의 한계와 의학적 사용에서의 제약등 기반적인 것도 설명 드립니다. 프로그래밍 코드로 실제 동작하는 시스템을 구축합니다.
 
 <br>
 
-# 일정
+# 프로그램
 
 - 09:00 - 09:50 : ChatGPT 소개, OpenAI API 소개 [from_DNN_to_GPT.pptx](from_DNN_to_GPT.pptx)
 - 10:00 - 10:50
