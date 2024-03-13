@@ -1,4 +1,4 @@
-# 2023 이대의대 ChatGPT 워크샾
+# 2024 이대의대 ChatGPT 워크샾
 
 ## 주제
 ChatGPT를 사용한 의학 자료의 QnA 엔진 구현(Implementing Questiong and Answering Engine using ChatGPT)
